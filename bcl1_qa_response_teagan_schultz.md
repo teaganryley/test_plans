@@ -316,7 +316,7 @@ Reproduction steps:
   1. Navigate to E&W animated choropleth
   2. Open console
   3. Observe error message: 
-    'The resource from “https://raw.githubusercontent.com/mholt/PapaParse/master/papaparse.min.js” was blocked due to MIME type (“text/plain”) mismatch (X-Content-Type-Options: nosniff).'
+    "The resource from 'https://raw.githubusercontent.com/mholt/PapaParse/master/papaparse.min.js' was blocked due to MIME type (“text/plain”) mismatch (X-Content-Type-Options: nosniff)."
 
 Expected result: MIME type mismatch should be resolved
 ```
