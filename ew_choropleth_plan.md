@@ -38,7 +38,7 @@ Feature: Smoke tests
 
 ```
 
-## User Acceptance Tests
+## Functional Tests
 
 ### Happy Path Tests
 
@@ -306,7 +306,7 @@ Feature: Animation spead boundaries
   
 ```
 
-## Bug Reports
+## Example Bug Reports
 
 ```
 [Issue #001]- PapaParser resource blocked due to MIME type
